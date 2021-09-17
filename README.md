@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![Yasir's github stats](https://github-readme-stats.vercel.app/api?username=itsyaasir&count_private=true&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyaasir&layout=compact&theme=chartreuse-dark)](https://github.com/itsyaasir/github-readme-stats) 
+  
+![alt text](https://visitor-badge.laobi.icu/badge?page_id=itsyaasir)
 
 <!--
 **itsyaasir/itsyaasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
