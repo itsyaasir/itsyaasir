@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Yasir's github stats](https://github-readme-stats.vercel.app/api?username=itsyaasir&count_private=true&show_icons=true&theme=synthwave)
+[![Yasir's github streak](https://github-readme-streak-stats.herokuapp.com/?user=i1d9&theme=blue-green)](https://github.com/itsyaasir/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyaasir&layout=compact&theme=chartreuse-dark)](https://github.com/itsyaasir/github-readme-stats) 
