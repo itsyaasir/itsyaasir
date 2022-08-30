@@ -14,4 +14,10 @@
 <a href="https://twitter.com/itsyaasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsyaasir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itsyaasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsyaasir" height="30" width="40" /></a>
 
+###
 
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/i/i/blob/output/snake.svg" alt="Snake animation" />
+
+###
