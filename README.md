@@ -17,9 +17,7 @@
 ###
 
 <br clear="both">
-
-<img href="https://github.com/itsyaasir/itsyaasir/blob/output/snake.svg" alt="Snake animation" />
-
+  
 ![snake gif](https://github.com/itsyaasir/itsyaasir/blob/output/snake.svg)
 
 ###
