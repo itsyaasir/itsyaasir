@@ -18,6 +18,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/i/i/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/itsyaasir/itsyaasir/blob/output/snake.svg" alt="Snake animation" />
 
 ###
