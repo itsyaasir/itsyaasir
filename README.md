@@ -14,6 +14,8 @@
 <a href="https://twitter.com/itsyaasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsyaasir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itsyaasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsyaasir" height="30" width="40" /></a>
 
+[![wakatime](https://wakatime.com/badge/user/d0d0f992-bbca-401e-8045-fe4a739dfc0d.svg)](https://wakatime.com/@d0d0f992-bbca-401e-8045-fe4a739dfc0d)
+
 ###
   
 ![snake gif](https://github.com/itsyaasir/itsyaasir/blob/output/snake.svg)
