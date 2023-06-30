@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsyaasir" target="blank"><img src="https://img.shields.io/twitter/follow/itsyaasir?logo=twitter&style=for-the-badge" alt="itsyaasir" /></a> </p>
 
-- 🌱 I’m currently learning **Embedded System**
+- 🌱 I’m currently learning **ML & AI**
 
 - 💬 Ask me about **Rust, Python & Flutter**
 
