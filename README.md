@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Rust, Python & Flutter**
 
-- 📫 How to reach me **yasirshariff@outlook.com**
+- 📫 How to reach me **yasir@shariff.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
